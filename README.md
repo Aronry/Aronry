@@ -1,16 +1,14 @@
-## Hi there 👋
 
-<!--
-**Aronry/Aronry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+</p>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/a992da1f-0e57-48b4-8f26-147a087871a4" alt="Comp 1">
+</p>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- Who I Am -->
+<h2 align="center">🎮 Your Game Dev & Graphics Wizard ✨</h2>
+
+- 🕹️ 13+ years making **games & graphics magic**
+- 🎨 Artist + illustrator — shipped **2 Steam games**
+- ⚡ I build prototypes **fast** (and help indies do the same)
+- 🦀 Loving **Rust**, **C++**, and pushing **graphics APIs**
