@@ -1,4 +1,4 @@
-<h2 align="center">👋 What's up, I'm Keef</h2>
+<h2>👋 What's up, I'm Keef</h2>
 
 <p align="center">
 🎨 Artist · 💻 Creator · 🧭 Tech Lead · 🚀 CEO of a Software Company  
